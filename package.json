@@ -1,0 +1,28 @@
+{
+  "name": "@iatec/helpbutton",
+  "version": "0.1.0",
+  "description": "HelpButton for Shell Applications",
+  "main": "dist/helpbutton.min.js",
+  "scripts": {
+    "prepublish": "gulp dist",
+    "dist": "gulp dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://sda-iatec@sda-iatec.visualstudio.com:22/Enterprise%20Library/_git/HelpButton"
+  },
+  "keywords": [
+    "EL",
+    "Controls",
+    "Help",
+    "HelpButton"
+  ],
+  "author": "andre.guilherme",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-uglify": "^2.0.0"
+  }
+}
