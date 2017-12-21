@@ -1,0 +1,23 @@
+{
+  "name": "@iatec/helpbuttonjs",
+  "description": "HelpButton for Shell Applications",
+  "main": "dist/helpbutton.min.js",
+  "authors": [
+    "andre.guilherme"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "EL",
+    "Controls",
+    "Help",
+    "HelpButton"
+  ],
+  "homepage": "https://github.com/iatecbr/helpbuttonjs",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
