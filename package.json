@@ -1,5 +1,5 @@
 {
-  "name": "@iatec/helpbutton",
+  "name": "@iatec/helpbuttonjs",
   "version": "0.1.1",
   "description": "HelpButton for Shell Applications",
   "main": "dist/helpbutton.min.js",
