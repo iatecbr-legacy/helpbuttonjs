@@ -1,6 +1,6 @@
 {
   "name": "@iatec/helpbutton",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "HelpButton for Shell Applications",
   "main": "dist/helpbutton.min.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://sda-iatec@sda-iatec.visualstudio.com:22/Enterprise%20Library/_git/HelpButton"
+    "url": "https://github.com/iatecbr/helpbuttonjs"
   },
   "keywords": [
     "EL",
